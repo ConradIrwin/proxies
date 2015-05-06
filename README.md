@@ -7,3 +7,7 @@ Written while I was at [Rapportive](https://rapportive.com), it is a transparent
 ## http_proxy.rb
 
 A simple HTTP proxy stolen from https://gist.github.com/torsten/74107#file-proxy-rb. Thanks @torsten.
+
+## udp_listener.rb
+
+Not really a proxy, just dumps UDP packets to STDOUT so that you can see them.
